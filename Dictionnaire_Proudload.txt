@@ -1,0 +1,32 @@
+#BBM
+#Extreup
+  
+    TiTre « Dictionnaire « 
+Dict.Form{Exp}{
+Detected [+] = Arp 
+Detected [-] = Guarp 
+     proud reload -CpU 
+      %p = 0; 
+           In p0 = Internal{
+   Expression (Load_Arp = Guarp){
+
+In delta.ARP = Exp.Set[+] 
+        
+        0 +Arp 
+        0 +Guarp
+       
+Load proud = Exp{Int}{
+
+Fast reload %p to proudLoad Arp: 
+Fast load %0 in proudLoad is Activated: 
+      
+     Dic [+] = %? In ProudParce is: 
+     #teutvaideur[+] = ProudParce[%?] 
+         
+       CpU is taiveudeurp ProudParce[%] 
+
+}
+
+}
+}
+}
